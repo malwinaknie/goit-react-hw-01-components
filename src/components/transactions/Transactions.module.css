@@ -1,5 +1,5 @@
 .transaction-history {
-    width: 500px;
+    width: 450px;
     border: 2px solid rgb(2, 83, 154);
     text-align: center;
 }
@@ -7,13 +7,13 @@
 thead {
     background-color: rgb(2, 83, 154);
     color: white;
-    font-size: 25px;
-    height: 50px;
+    font-size: 20px;
+    height: 40px;
 }
 
 tr {
-    font-size: 25px;
-    height: 35px;
+    font-size: 20px;
+    height: 30px;
 }
 
 tr:nth-child(2n) {
